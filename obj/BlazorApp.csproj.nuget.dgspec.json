@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mwongera/Projects/ASP/BlazorApp/BlazorApp.csproj": {}
+    "/home/mwongera/Projects/ASP/l99backend/BlazorApp.csproj": {}
   },
   "projects": {
-    "/home/mwongera/Projects/ASP/BlazorApp/BlazorApp.csproj": {
+    "/home/mwongera/Projects/ASP/l99backend/BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mwongera/Projects/ASP/BlazorApp/BlazorApp.csproj",
+        "projectUniqueName": "/home/mwongera/Projects/ASP/l99backend/BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "/home/mwongera/Projects/ASP/BlazorApp/BlazorApp.csproj",
+        "projectPath": "/home/mwongera/Projects/ASP/l99backend/BlazorApp.csproj",
         "packagesPath": "/home/mwongera/.nuget/packages/",
-        "outputPath": "/home/mwongera/Projects/ASP/BlazorApp/obj/",
+        "outputPath": "/home/mwongera/Projects/ASP/l99backend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mwongera/.nuget/NuGet/NuGet.Config"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/241/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/245/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
