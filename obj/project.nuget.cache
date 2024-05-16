@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s4tv5lRKCbYcoIQcWH7CZHrii79KmVGhADZczahouaFcxf0vGxXZoTDKahM0HDRM4pwv1pGiAqmk1mhwXU7tEQ==",
+  "dgSpecHash": "CwVA3+S2ueQ=",
   "success": true,
-  "projectFilePath": "/home/mwongera/Projects/ASP/BlazorApp/BlazorApp.csproj",
+  "projectFilePath": "/home/mwongera/Projects/ASP/l99backend/BlazorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
